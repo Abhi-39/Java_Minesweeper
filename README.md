@@ -116,9 +116,3 @@ This project is provided under the MIT License — see the LICENSE file for deta
 - Abhi-39 — https://github.com/Abhi-39
 
 ---
-
-If you'd like, I can:
-
-- Inspect the repository and update this README with exact build/run commands and the main class name.
-- Add usage screenshots or GIFs if a GUI exists (you can upload images to the repo).
-- Add a CONTRIBUTING.md, CODE_OF_CONDUCT, or badges (build/test coverage).
